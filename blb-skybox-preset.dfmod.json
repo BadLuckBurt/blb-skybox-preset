@@ -1,0 +1,20 @@
+{
+    "ModTitle": "blb-skybox-preset",
+    "ModVersion": "0.1",
+    "ModAuthor": "BadLuckBurt",
+    "ContactInfo": "x",
+    "DFUnity_Version": "0.13.5",
+    "ModDescription": "Skybox preset by BadLuckBurt",
+    "GUID": "bdadb3d0-0be0-4657-8dbc-0a024f2fcd04",
+    "Files": [
+        "Assets/Game/Mods/blb-skybox-preset/SkyboxPresets/SkyboxSunny.json",
+        "Assets/Game/Mods/blb-skybox-preset/SkyboxPresets/SkyboxRain.json",
+        "Assets/Game/Mods/blb-skybox-preset/SkyboxPresets/SkyboxSnow.json",
+        "Assets/Game/Mods/blb-skybox-preset/SkyboxPresets/SkyboxThunder.json",
+        "Assets/Game/Mods/blb-skybox-preset/SkyboxPresets/SkyboxCloudy.json",
+        "Assets/Game/Mods/blb-skybox-preset/SkyboxPresets/SkyboxFog.json",
+        "Assets/Game/Mods/blb-skybox-preset/SkyboxPresets/SkyboxOvercast.json",
+        "Assets/Game/Mods/blb-skybox-preset/Textures/BLBCloudsNormal.png",
+        "Assets/Game/Mods/blb-skybox-preset/Textures/BLBClouds.png"
+    ]
+}
