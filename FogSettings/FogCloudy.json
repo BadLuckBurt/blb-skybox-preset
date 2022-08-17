@@ -2,6 +2,6 @@
     "FogModeInt": 1,
     "Density": 0.0,
     "StartDistance": 0.0,
-    "EndDistance": 64.0,
+    "EndDistance": 1600.0,
     "ExcludeSkybox": true
 }

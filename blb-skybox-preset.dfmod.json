@@ -27,6 +27,7 @@
         "Assets/Game/Mods/blb-skybox-preset/FogSettings/FogSnowy.json",
         "Assets/Game/Mods/blb-skybox-preset/FogSettings/FogSunny.json",
         "Assets/Game/Mods/blb-skybox-preset/FogSettings/FogOvercast.json",
-        "Assets/Game/Mods/blb-skybox-preset/FogSettings/FogHeavyFog.json"
+        "Assets/Game/Mods/blb-skybox-preset/FogSettings/FogHeavyFog.json",
+        "Assets/Game/Mods/blb-skybox-preset/blb-skybox-preset.dfmod.json"
     ]
 }
