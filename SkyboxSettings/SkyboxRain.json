@@ -6,6 +6,7 @@
     "AtmosphereDawnDuskThickness": 0.800000011920929,
     "AtmosphereLerp": 1.0,
     "SkyTint": "FF7E7EFF",
+    "stepSize": 0.00000001,
     "GroundColor": "4C4C4CFF",
     "AmbientColor": "292929FF",
     "AmbientIntensity": 1.0,
